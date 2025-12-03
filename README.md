@@ -1,5 +1,3 @@
-
-
 ## Aim : 
 
 Checking the frequencies of the Sine, Square, and Triangle waves on the waveform generator
@@ -44,15 +42,13 @@ If volt/div= 1 volt; 1 Major div is 1v and each minor div is 0.2v.
 If time/div= 0.1 ms; 1 Major div is 0.1ms and each minor div is 0.02 ms.
 
 ## Circuit Diagram:
-
-<img width="1576" height="903" alt="image" src="https://github.com/user-attachments/assets/2c01a27c-4956-4474-9d93-f25924624870" />
+<img width="1031" height="593" alt="Screenshot 2025-11-27 182749" src="https://github.com/user-attachments/assets/0538e61f-adfc-4704-8a7a-8e6ba8fad1e0" />
 
 
 ## Output Graph:
-
-<img width="1585" height="898" alt="image" src="https://github.com/user-attachments/assets/f0023ab4-30d1-4afa-8a9e-57dd73644e2c" />
-
+<img width="1030" height="583" alt="Screenshot 2025-11-27 182809" src="https://github.com/user-attachments/assets/c744f8f7-dd6d-4506-9f34-63f2e7b34f0b" />
 
 ## Result:
-
-Thus Measurement-of-phase-and-frequency-using-lissajous-pattern is verified.
+Thus we Checked the frequencies of the Sine, Square, and Triangle waves on the waveform generator
+This experiment will help the students to learn measuring voltages, time, frequency.
+This experiment will help the students to learn about lissajous figures
